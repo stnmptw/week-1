@@ -5,6 +5,8 @@
 * Change the code such that it will sort from larger to smaller, put the revision of your code below
 * Change the code such that there is no flag variable, put the commit number below and answer question 5 
 
+Thanisorn Jundee 
+570611015
 
 ## Revision, put your commit number here
 * Sort from larger to smaller:
@@ -13,7 +15,7 @@
 ## Questions
 1. How this code can sort number from smaller to larger
  
-Answer: 
+Answer: This code is Bubble sort use flag variable as confition to controll while loop and use "if" to compair number
 
 2. What if two numbers equal, what will happen? 
 
