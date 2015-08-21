@@ -27,8 +27,8 @@ Answer: 27 times
 
 4. Why we need flag variable ? 
 
-Answer: because 
+Answer: because flag is variable to check are number is sort already and control while loop when to stop
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:
+Answer:lowers
