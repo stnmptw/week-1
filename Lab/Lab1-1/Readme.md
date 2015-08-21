@@ -6,11 +6,10 @@
 * Change the code such that there is no flag variable, put the commit number below and answer question 5 
 
 
-
-## Revision, put your commit number here
 ##Thanisorn Jundee 570611015
-* Sort from larger to smaller:
-* Without flag:
+## Revision, put your commit number here
+* Sort from larger to smaller: line 24 = if (input[i] < input[i + 1])
+* Without flag: program will once sort 
 
 ## Questions
 1. How this code can sort number from smaller to larger
@@ -31,4 +30,4 @@ Answer: because flag is variable to check are number is sort already and control
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:slower
+Answer:(if not while loop) faster
