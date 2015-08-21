@@ -31,4 +31,4 @@ Answer: because flag is variable to check are number is sort already and control
 
 5. When we remove the flag variable, the code will run faster or slower? in which scenario? 
 
-Answer:lowers
+Answer:slower
