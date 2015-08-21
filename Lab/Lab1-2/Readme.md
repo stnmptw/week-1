@@ -5,7 +5,7 @@
 * Revise the code such that it can accept input from command line, put your commit number and answer question 1 below
 
 
-## Revision, put your commit number here
+## Revision, put your commit number here :4d22224e0e6f62860025a3100f4dcb5b5f407cbd
 * Three functions:
 public void input(){
 
